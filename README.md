@@ -22,4 +22,4 @@ This folder holds Excel exercises I completed to build core skills used in Data 
 
 ## Why this is here
 
-I'm targeting remote Data Analyst / BI Analyst / Finance Analyst / Business Analyst roles and building my portfolio around SQL, Python, and Tableau, with Excel as the foundation I learned first. These files show consistent practice with the modelling and analysis patterns (statement linkage, pivoting large datasets, variance analysis) that carry over directly into SQL and BI tool work.
+I'm targeting a remote analyst role and building my portfolio around SQL, Python, and Tableau, with Excel as the foundation I learned first. These files show consistent practice with the modelling and analysis patterns (statement linkage, pivoting large datasets, variance analysis) that carry over directly into SQL and BI tool work.
